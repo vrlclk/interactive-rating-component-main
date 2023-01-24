@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-bVeP2KSLUi)
 - Live Site URL: [Live site URL](https://interactive-rating-by-vrlclk.netlify.app/)
 
 ## My process
